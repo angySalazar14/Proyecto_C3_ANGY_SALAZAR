@@ -1,0 +1,6 @@
+PROYECTO
+Nombre: Sistema de gestión de base de datos de empleados
+
+Se utiliza Python para crear un sistema de gestión de la base de datos de empleados de una empresa. Este sistema permitirá administrar la información de los empleados, áreas y jefes, así como realizar operaciones de lectura y escritura en archivos de texto para almacenar y recuperar datos.
+
+Objetivos:
