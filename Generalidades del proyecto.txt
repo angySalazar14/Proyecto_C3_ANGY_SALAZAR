@@ -5,3 +5,9 @@ Se utiliza Python para crear un sistema de gestión de la base de datos de emple
 
 Objetivos:
 diseñar una aplicación con base en los conocimientos del semillero 
+
+-creación y ajuste Class empleados y class jefe
+-creación de class área
+-encapsulación y optimización
+-actualización codigo-ciclos for
+-actualización métodos agregar 
